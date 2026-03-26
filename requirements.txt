@@ -1,0 +1,4 @@
+yt-dlp>=2026.3.17
+certifi>=2026.2.25
+pyinstaller>=6.19.0
+pyobjc>=10.3.1
